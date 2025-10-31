@@ -1,0 +1,43 @@
+/* Fondo con leve degradado */
+body {
+  background: linear-gradient(180deg, #f8f9fa 0%, #eef1f5 100%);
+}
+
+/* Navbar con gradiente */
+.bg-gradient-primary {
+  background: linear-gradient(90deg, #007bff, #0056d2);
+}
+
+/* Contenedor principal */
+main.container {
+  max-width: 1100px;
+}
+
+/* Título elegante */
+h2.page-title {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-weight: 600;
+  color: #343a40;
+}
+
+/* Tabla mejorada */
+.table-modern {
+  border-radius: 0.75rem;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
+}
+
+.table-modern thead {
+  background: linear-gradient(90deg, #007bff, #4e9eff);
+  color: #fff;
+  font-weight: 600;
+}
+
+.table-modern tbody tr {
+  transition: background 0.2s ease;
+}
+
+.table-modern tbody tr:hover {
+  background-color: #eef6ff;
+}

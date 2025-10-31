@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block title %}Demo Datos Abiertos{% endblock %}
+
+{% block content %}
+  <h2 class="page-title">Listado de Datos</h2>
+
+  <div class="card p-4 shadow-sm border-0">
+    <div class="table-responsive table-scroll">
+      <table id="tabla" class="table table-modern table-hover align-middle">
+        <thead>
+          <tr>
+            {% for col in columnas %}
+              <th>{{ col }}</th>
+            {% endfor %}
+          </tr>
+        </thead>
+        <tbody>
+          {% for fila in datos %}
+            <tr>
+              {% for celda in fila %}
+                <td>{{ celda }}</td>
+              {% endfor %}
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  $(document).ready(function() {
+    $('#tabla').DataTable({
+      pageLength: 10,
+      scrollX: true, // 👈 habilita scroll horizontal nativo de DataTables
+      autoWidth: false,
+      language: {
+        url: "//cdn.datatables.net/plug-ins/1.13.6/i18n/es-ES.json"
+      },
+      dom: '<"top"f>rt<"bottom"lp><"clear">'
+    });
+  });
+</script>
+{% endblock %}
