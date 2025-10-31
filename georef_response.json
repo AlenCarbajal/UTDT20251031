@@ -1,0 +1,2039 @@
+{
+  "resultados": [
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.697079101,
+            "lon": -59.420877219
+          },
+          "id": "060532",
+          "nombre": "Mercedes",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "MERCEDES",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -37.965653704,
+            "lon": -57.743083903
+          },
+          "id": "060357",
+          "nombre": "General Pueyrredón",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "GENERAL PUEYRREDON",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.70562485,
+            "lon": -58.394705373
+          },
+          "id": "060434",
+          "nombre": "Lanús",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "LANUS",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.650289401,
+            "lon": -58.987894698
+          },
+          "id": "060364",
+          "nombre": "General Rodríguez",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "GENERAL RODRIGUEZ",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -35.222165955,
+            "lon": -58.17591867
+          },
+          "id": "060119",
+          "nombre": "Brandsen",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "BRANDSEN",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.567717603,
+            "lon": -59.158535779
+          },
+          "id": "060497",
+          "nombre": "Luján",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "LUJAN",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.710932342,
+            "lon": -58.741867447
+          },
+          "id": "060539",
+          "nombre": "Merlo",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "MERLO",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.877784581,
+            "lon": -58.258719489
+          },
+          "id": "060274",
+          "nombre": "Florencio Varela",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "FLORENCIO VARELA",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.448200171,
+            "lon": -58.903392854
+          },
+          "id": "060638",
+          "nombre": "Pilar",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "PILAR",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.831185504,
+            "lon": -58.476961449
+          },
+          "id": "060260",
+          "nombre": "Esteban Echeverría",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "ESTEBAN ECHEVERRIA",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -35.219476872,
+            "lon": -59.145973361
+          },
+          "id": "060483",
+          "nombre": "Lobos",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "LOBOS",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.610656079,
+            "lon": -58.810931921
+          },
+          "id": "060560",
+          "nombre": "Moreno",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "MORENO",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.29521516,
+            "lon": -59.155914936
+          },
+          "id": "060266",
+          "nombre": "Exaltación de la Cruz",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "EXALTACION DE LA CRUZ",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.4872843,
+            "lon": -58.712152489
+          },
+          "id": "060515",
+          "nombre": "Malvinas Argentinas",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "MALVINAS ARGENTINAS",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -35.003660577,
+            "lon": -58.017979297
+          },
+          "id": "060441",
+          "nombre": "La Plata",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "LA PLATA",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -35.070504748,
+            "lon": -58.431987318
+          },
+          "id": "060778",
+          "nombre": "San Vicente",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "SAN VICENTE",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.328725684,
+            "lon": -58.771218836
+          },
+          "id": "060252",
+          "nombre": "Escobar",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "ESCOBAR",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.835652395,
+            "lon": -58.367512394
+          },
+          "id": "060028",
+          "nombre": "Almirante Brown",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "ALMIRANTE BROWN",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.875706611,
+            "lon": -58.564843181
+          },
+          "id": "060270",
+          "nombre": "Ezeiza",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "EZEIZA",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.754937069,
+            "lon": -58.423994705
+          },
+          "id": "060490",
+          "nombre": "Lomas de Zamora",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "LOMAS DE ZAMORA",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.678163379,
+            "lon": -58.34129031
+          },
+          "id": "060035",
+          "nombre": "Avellaneda",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "AVELLANEDA",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.734985584,
+            "lon": -58.276950589
+          },
+          "id": "060658",
+          "nombre": "Quilmes",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "QUILMES",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.818085534,
+            "lon": -58.155314269
+          },
+          "id": "060091",
+          "nombre": "Berazategui",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "BERAZATEGUI",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.770131434,
+            "lon": -58.625356736
+          },
+          "id": "060427",
+          "nombre": "La Matanza",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "LA MATANZA",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.649160852,
+            "lon": -58.619863872
+          },
+          "id": "060568",
+          "nombre": "Morón",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "MORON",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.552744348,
+            "lon": -58.564226459
+          },
+          "id": "060371",
+          "nombre": "General San Martín",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "GENERAL SAN MARTIN",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.486976515,
+            "lon": -58.537464517
+          },
+          "id": "060756",
+          "nombre": "San Isidro",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "SAN ISIDRO",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.151727522,
+            "lon": -58.546219949
+          },
+          "id": "060749",
+          "nombre": "San Fernando",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "SAN FERNANDO",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.381709292,
+            "lon": -58.598888222
+          },
+          "id": "060805",
+          "nombre": "Tigre",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "TIGRE",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.552323961,
+            "lon": -58.691514932
+          },
+          "id": "060760",
+          "nombre": "San Miguel",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "SAN MIGUEL",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.511873854,
+            "lon": -58.777722421
+          },
+          "id": "060412",
+          "nombre": "José C. Paz",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "JOSE C. PAZ",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 0,
+      "gobiernos_locales": [],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "URBANO DE LA COSTA",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 0
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -37.110158572,
+            "lon": -56.869991089
+          },
+          "id": "060644",
+          "nombre": "Pinamar",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "PINAMAR",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -38.257557443,
+            "lon": -62.291285777
+          },
+          "id": "060819",
+          "nombre": "Tornquist",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "TORNQUIST",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -31.343996727,
+            "lon": -58.034229414
+          },
+          "id": "300042",
+          "nombre": "Concordia",
+          "provincia": {
+            "id": "30",
+            "nombre": "Entre Ríos"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "CONCORDIA",
+        "provincia": "ENTRE RÍOS"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -36.530543239,
+            "lon": -64.407698723
+          },
+          "id": "420336",
+          "nombre": "Santa Rosa",
+          "provincia": {
+            "id": "42",
+            "nombre": "La Pampa"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "SANTA ROSA",
+        "provincia": "LA PAMPA"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -26.834816976,
+            "lon": -65.218783826
+          },
+          "id": "900014",
+          "nombre": "San Miguel de Tucumán",
+          "provincia": {
+            "id": "90",
+            "nombre": "Tucumán"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "SAN MIGUEL DE TUCUMAN",
+        "provincia": "TUCUMAN"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -39.456796062,
+            "lon": -68.698775593
+          },
+          "id": "620133",
+          "nombre": "Cipolletti",
+          "provincia": {
+            "id": "62",
+            "nombre": "Río Negro"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "CIPOLLETTI",
+        "provincia": "RÍO NEGRO"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -37.335740973,
+            "lon": -59.182257223
+          },
+          "id": "060791",
+          "nombre": "Tandil",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "TANDIL",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -36.785499763,
+            "lon": -59.69644554
+          },
+          "id": "060049",
+          "nombre": "Azul",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "AZUL",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -37.365707147,
+            "lon": -57.062599422
+          },
+          "id": "060868",
+          "nombre": "Villa Gesell",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "VILLA GESELL",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -33.781057298,
+            "lon": -59.782464323
+          },
+          "id": "060770",
+          "nombre": "San Pedro",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "SAN PEDRO",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -26.034398242,
+            "lon": -58.196341987
+          },
+          "id": "340028",
+          "nombre": "Formosa",
+          "provincia": {
+            "id": "34",
+            "nombre": "Formosa"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "FORMOSA",
+        "provincia": "FORMOSA"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -51.639614813,
+            "lon": -69.274131651
+          },
+          "id": "780049",
+          "nombre": "Río Gallegos",
+          "provincia": {
+            "id": "78",
+            "nombre": "Santa Cruz"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "RIO GALLEGOS",
+        "provincia": "SANTA CRUZ"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 0,
+      "gobiernos_locales": [],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "RIO GRANDE",
+        "provincia": "TIERRA DEL FUEGO"
+      },
+      "total": 0
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.546177468,
+            "lon": -61.005747128
+          },
+          "id": "060413",
+          "nombre": "Junín",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "JUNIN",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -33.99736389,
+            "lon": -59.128437374
+          },
+          "id": "060882",
+          "nombre": "Zárate",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "ZARATE",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -43.249444463,
+            "lon": -65.31918829
+          },
+          "id": "260119",
+          "nombre": "Trelew",
+          "provincia": {
+            "id": "26",
+            "nombre": "Chubut"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "TRELEW",
+        "provincia": "CHUBUT"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -45.839480468,
+            "lon": -67.591431107
+          },
+          "id": "260049",
+          "nombre": "Comodoro Rivadavia",
+          "provincia": {
+            "id": "26",
+            "nombre": "Chubut"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "COMODORO RIVADAVIA",
+        "provincia": "CHUBUT"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -24.194388573,
+            "lon": -65.418859812
+          },
+          "id": "380035",
+          "nombre": "San Salvador de Jujuy",
+          "provincia": {
+            "id": "38",
+            "nombre": "Jujuy"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "SAN SALVADOR DE JUJUY",
+        "provincia": "JUJUY"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -40.134922783,
+            "lon": -71.301306764
+          },
+          "id": "580119",
+          "nombre": "San Martín de los Andes",
+          "provincia": {
+            "id": "58",
+            "nombre": "Neuquén"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "SAN MARTIN DE LOS ANDES",
+        "provincia": "NEUQUÉN"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -31.74936112,
+            "lon": -60.50120518
+          },
+          "id": "300336",
+          "nombre": "Paraná",
+          "provincia": {
+            "id": "30",
+            "nombre": "Entre Ríos"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "PARANA",
+        "provincia": "ENTRE RÍOS"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -31.654947996,
+            "lon": -60.639466851
+          },
+          "id": "820147",
+          "nombre": "Santa Fe",
+          "provincia": {
+            "id": "82",
+            "nombre": "Santa Fe"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "SANTA FE",
+        "provincia": "SANTA FE"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 0,
+      "gobiernos_locales": [],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "SAN NICOLAS DE LOS ARROYOS",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 0
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -41.102678328,
+            "lon": -71.45640632
+          },
+          "id": "620077",
+          "nombre": "San Carlos de Bariloche",
+          "provincia": {
+            "id": "62",
+            "nombre": "Río Negro"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "SAN CARLOS DE BARILOCHE",
+        "provincia": "RÍO NEGRO"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -38.94853803,
+            "lon": -68.27739985
+          },
+          "id": "580070",
+          "nombre": "Plottier",
+          "provincia": {
+            "id": "58",
+            "nombre": "Neuquén"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "PLOTTIER",
+        "provincia": "NEUQUÉN"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -27.494142427,
+            "lon": -58.770087031
+          },
+          "id": "180021",
+          "nombre": "Corrientes",
+          "provincia": {
+            "id": "18",
+            "nombre": "Corrientes"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "CORRIENTES",
+        "provincia": "CORRIENTES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -32.949203455,
+            "lon": -60.698541989
+          },
+          "id": "820210",
+          "nombre": "Rosario",
+          "provincia": {
+            "id": "82",
+            "nombre": "Santa Fe"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "ROSARIO",
+        "provincia": "SANTA FE"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -38.884792571,
+            "lon": -68.169672888
+          },
+          "id": "580056",
+          "nombre": "Neuquén",
+          "provincia": {
+            "id": "58",
+            "nombre": "Neuquén"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "NEUQUEN",
+        "provincia": "NEUQUÉN"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -43.276274018,
+            "lon": -65.083948625
+          },
+          "id": "260112",
+          "nombre": "Rawson",
+          "provincia": {
+            "id": "26",
+            "nombre": "Chubut"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "RAWSON",
+        "provincia": "CHUBUT"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -38.583958153,
+            "lon": -62.169811995
+          },
+          "id": "060056",
+          "nombre": "Bahía Blanca",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "BAHIA BLANCA",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -38.255574723,
+            "lon": -59.167383918
+          },
+          "id": "060581",
+          "nombre": "Necochea",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "NECOCHEA",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.929914026,
+            "lon": -58.398147458
+          },
+          "id": "060648",
+          "nombre": "Presidente Perón",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "PRESIDENTE PERON",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 0,
+      "gobiernos_locales": [],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "CORONEL ROSALES",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 0
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -33.303513212,
+            "lon": -66.343484033
+          },
+          "id": "740133",
+          "nombre": "San Luis",
+          "provincia": {
+            "id": "74",
+            "nombre": "San Luis"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "SAN LUIS",
+        "provincia": "SAN LUIS"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 0,
+      "gobiernos_locales": [],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "USHUAIA",
+        "provincia": "TIERRA DEL FUEGO"
+      },
+      "total": 0
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -29.226366889,
+            "lon": -59.616517548
+          },
+          "id": "820112",
+          "nombre": "Reconquista",
+          "provincia": {
+            "id": "82",
+            "nombre": "Santa Fe"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "RECONQUISTA",
+        "provincia": "SANTA FE"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -33.115809527,
+            "lon": -64.356988507
+          },
+          "id": "140861",
+          "nombre": "Río Cuarto",
+          "provincia": {
+            "id": "14",
+            "nombre": "Córdoba"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "RIO CUARTO",
+        "provincia": "CORDOBA"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -26.787053008,
+            "lon": -60.461944613
+          },
+          "id": "220077",
+          "nombre": "Presidencia Roque Sáenz Peña",
+          "provincia": {
+            "id": "22",
+            "nombre": "Chaco"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "PRESIDENCIA ROQUE SAENZ PEÑA",
+        "provincia": "CHACO"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -39.010636272,
+            "lon": -67.61838914
+          },
+          "id": "620161",
+          "nombre": "General Roca",
+          "provincia": {
+            "id": "62",
+            "nombre": "Río Negro"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "GENERAL ROCA",
+        "provincia": "RÍO NEGRO"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.138263878,
+            "lon": -58.883026787
+          },
+          "id": "060126",
+          "nombre": "Campana",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "CAMPANA",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -35.145086339,
+            "lon": -58.690832973
+          },
+          "id": "060134",
+          "nombre": "Cañuelas",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "CAÑUELAS",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -42.912113692,
+            "lon": -71.318107598
+          },
+          "id": "260077",
+          "nombre": "Esquel",
+          "provincia": {
+            "id": "26",
+            "nombre": "Chubut"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "ESQUEL",
+        "provincia": "CHUBUT"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -31.275314072,
+            "lon": -64.333364178
+          },
+          "id": "140175",
+          "nombre": "Villa Allende",
+          "provincia": {
+            "id": "14",
+            "nombre": "Córdoba"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "VILLA ALLENDE",
+        "provincia": "CORDOBA"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -33.027650115,
+            "lon": -58.420779152
+          },
+          "id": "300189",
+          "nombre": "Gualeguaychú",
+          "provincia": {
+            "id": "30",
+            "nombre": "Entre Ríos"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "GUALEGUAYCHU",
+        "provincia": "ENTRE RÍOS"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -31.242329018,
+            "lon": -61.487561137
+          },
+          "id": "820042",
+          "nombre": "Rafaela",
+          "provincia": {
+            "id": "82",
+            "nombre": "Santa Fe"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "RAFAELA",
+        "provincia": "SANTA FE"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -27.741871548,
+            "lon": -64.243666712
+          },
+          "id": "860042",
+          "nombre": "La Banda",
+          "provincia": {
+            "id": "86",
+            "nombre": "Santiago del Estero"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "LA BANDA",
+        "provincia": "SANTIAGO DEL ESTERO"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -32.4033226,
+            "lon": -63.236687807
+          },
+          "id": "140357",
+          "nombre": "Villa María",
+          "provincia": {
+            "id": "14",
+            "nombre": "Córdoba"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "VILLA MARIA",
+        "provincia": "CORDOBA"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -32.461704748,
+            "lon": -58.282174113
+          },
+          "id": "300427",
+          "nombre": "Concepción del Uruguay",
+          "provincia": {
+            "id": "30",
+            "nombre": "Entre Ríos"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "CONCEPCION DEL URUGUAY",
+        "provincia": "ENTRE RÍOS"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -36.856800146,
+            "lon": -60.67029171
+          },
+          "id": "060595",
+          "nombre": "Olavarría",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "OLAVARRIA",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -34.915015985,
+            "lon": -59.958944931
+          },
+          "id": "060224",
+          "nombre": "Chivilcoy",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "CHIVILCOY",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -33.835925139,
+            "lon": -60.544910919
+          },
+          "id": "060623",
+          "nombre": "Pergamino",
+          "provincia": {
+            "id": "06",
+            "nombre": "Buenos Aires"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "PERGAMINO",
+        "provincia": "BUENOS AIRES"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -35.578233119,
+            "lon": -63.615292326
+          },
+          "id": "420147",
+          "nombre": "General Pico",
+          "provincia": {
+            "id": "42",
+            "nombre": "La Pampa"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "GENERAL PICO",
+        "provincia": "LA PAMPA"
+      },
+      "total": 1
+    },
+    {
+      "cantidad": 1,
+      "gobiernos_locales": [
+        {
+          "centroide": {
+            "lat": -33.751812114,
+            "lon": -61.974437229
+          },
+          "id": "820077",
+          "nombre": "Venado Tuerto",
+          "provincia": {
+            "id": "82",
+            "nombre": "Santa Fe"
+          }
+        }
+      ],
+      "inicio": 0,
+      "parametros": {
+        "exacto": true,
+        "max": 1,
+        "nombre": "VENADO TUERTO",
+        "provincia": "SANTA FE"
+      },
+      "total": 1
+    }
+  ]
+}
