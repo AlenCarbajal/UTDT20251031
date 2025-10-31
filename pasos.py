@@ -2,7 +2,7 @@ import io
 import base64
 from flask import render_template
 import matplotlib.pyplot as plt
-from .georef_func import mapa_municipios
+from georef_func import mapa_municipios
 
 def pasos(data, n):
     if n == 4:

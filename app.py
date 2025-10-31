@@ -2,8 +2,8 @@ from flask import Flask, render_template
 import pandas as pd
 import os
 
-from .georef_func import georreferenciar_municipios
-from .pasos import pasos
+from georef_func import georreferenciar_municipios
+from pasos import pasos
 
 SAMPLE_SIZE = 1000
 
